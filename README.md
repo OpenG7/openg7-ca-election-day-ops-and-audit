@@ -1,3 +1,5 @@
+![Home — Election day ops](docs/images/prototype-ed-ops.png)
+
 # OpenG7 — CA: Election Day Ops, Results & Audit (openg7-ca-election-day-ops-and-audit)
 
 **Languages:** [English](#english) | [Français](#francais)
